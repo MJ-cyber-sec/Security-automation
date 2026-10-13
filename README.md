@@ -1,4 +1,4 @@
-# Grype-scan-automation
+## Security-Assessment-automation
 
 ## What is this?
 A automation tool for Docker image vulnerability scanning using Grype. Instead of running Grype manually on each `.tar` file one by one, this automates the scanning process for an entire folder and exports the findings into an organised Excel file using Python.
